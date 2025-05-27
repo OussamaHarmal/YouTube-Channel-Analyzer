@@ -51,7 +51,15 @@ streamlit run app.py
 
 Ce projet a été développé dans le cadre du **PFE 2025** par :
 
-- Oussama Harmal    
+- Oussama Harmal
+
+  ---
+
+## 🪪 Licence
+
+Ce projet est **privé**. Toute utilisation, modification ou distribution est interdite sans l'autorisation des auteurs.
+
+---
 
 ## 🔗 Lien du dépôt
 
