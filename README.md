@@ -1,15 +1,15 @@
 
-# 📊 YouTube Channel Performance Analyzer
+#  YouTube Channel Performance Analyzer
 
 Une application puissante et interactive d’analyse & de prédiction conçue pour comprendre et prévoir les **vues**, **revenus** et **temps de visionnage** d’une chaîne YouTube.
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - 🔍 Nettoyage & Exploration des données avec Pandas  
 - 📈 Modélisation prédictive via des algorithmes de régression avancés  
 - 🖥️ Tableau de bord interactif avec Streamlit pour des analyses en temps réel  
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - Python 🐍  
 - Pandas 📊  
@@ -17,7 +17,7 @@ Une application puissante et interactive d’analyse & de prédiction conçue po
 - Streamlit 🚀  
 - XGBoost, CatBoost, RandomForest 🌲  
 
-## 🚀 Comment exécuter l'application
+##  Comment exécuter l'application
 
 1. Cloner le dépôt :
 
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📌 Remarques
+##  Remarques
 
 - Assurez-vous d’avoir Python 3.7 ou plus installé.
 - Les fichiers de modèles doivent être présents dans le dossier du projet :
@@ -47,7 +47,7 @@ streamlit run app.py
   - `best_model_watch_time.pkl`
 
 
-## 🧠 À propos du projet
+##  À propos du projet
 
 Ce projet a été développé dans le cadre du **PFE 2025** par :
 
@@ -55,12 +55,12 @@ Ce projet a été développé dans le cadre du **PFE 2025** par :
 
   ---
 
-## 🪪 Licence
+##  Licence
 
 Ce projet est **privé**. Toute utilisation, modification ou distribution est interdite sans l'autorisation des auteurs.
 
 ---
 
-## 🔗 Lien du dépôt
+##  Lien du dépôt
 
 [👉 Accéder au dépôt GitHub](https://youtube-channel-analyzer-bhr42gwpkhetykahgxtqli.streamlit.app/)
