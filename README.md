@@ -55,7 +55,7 @@ The system provides insights into:
 ---
 ## Dashboard Preview
 
-![Dashboard](/dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 ## Installation
