@@ -52,10 +52,10 @@ The system provides insights into:
 ---
 
 ## Dashboard Preview
-
-<img width="1907" height="1075" alt="Capture d&#39;écran 2025-05-18 135713" src="https://github.com/user-attachments/assets/f5040677-b68b-49d2-acf5-bb78aca33cf9" />
-
 ---
+<img width="1203" height="743" alt="Capture d&#39;écran 2025-05-21 154851" src="https://github.com/user-attachments/assets/ec2da7d0-ddef-44a8-9dc3-7ef6fa88b2a7" />
+
+
 
 ## Installation
 
