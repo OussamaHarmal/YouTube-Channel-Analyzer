@@ -53,7 +53,7 @@ The system provides insights into:
 
 ## Dashboard Preview
 ---
-<img width="1203" height="743" alt="Capture d&#39;écran 2025-05-21 154851" src="https://github.com/user-attachments/assets/ec2da7d0-ddef-44a8-9dc3-7ef6fa88b2a7" />
+<img width="1203" height="743" alt="Capture d&#39;écran 2025-05-21 154851" src="https://github.com/user-attachments/assets/ec2da7d0-ddef-44a8-9dc3-7ef6fa88b2a7"/>
 
 
 
