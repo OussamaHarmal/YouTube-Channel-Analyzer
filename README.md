@@ -1,66 +1,71 @@
+## README 
 
-#  YouTube Channel Performance Analyzer
+```md
+# YouTube Performance Analytics & Prediction
 
-Une application puissante et interactive d’analyse & de prédiction conçue pour comprendre et prévoir les **vues**, **revenus** et **temps de visionnage** d’une chaîne YouTube.
+## Overview
+This project analyzes YouTube channel performance using Data Analytics and Machine Learning techniques.
 
-##  Fonctionnalités
-
-- 🔍 Nettoyage & Exploration des données avec Pandas  
-- 📈 Modélisation prédictive via des algorithmes de régression avancés  
-- 🖥️ Tableau de bord interactif avec Streamlit pour des analyses en temps réel  
-
-##  Technologies utilisées
-
-- Python 🐍  
-- Pandas 📊  
-- Scikit-learn 🤖  
-- Streamlit 🚀  
-- XGBoost, CatBoost, RandomForest 🌲  
-
-##  Comment exécuter l'application
-
-1. Cloner le dépôt :
-
-```bash
-git clone https://github.com/OussamaHarmal/YouTube-Channel-Analyzer.git
-cd YouTube-Channel-Analyzer
-```
-
-2. Installer les dépendances :
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Lancer l'application :
-
-```bash
-streamlit run app.py
-```
-
-##  Remarques
-
-- Assurez-vous d’avoir Python 3.7 ou plus installé.
-- Les fichiers de modèles doivent être présents dans le dossier du projet :
-  - `best_model_views.pkl`
-  - `best_model_revenue.pkl`
-  - `best_model_watch_time.pkl`
-
-
-##  À propos du projet
-
-Ce projet a été développé dans le cadre du **PFE 2025** par :
-
-- Oussama Harmal
-
-  ---
-
-##  Licence
-
-Ce projet est **privé**. Toute utilisation, modification ou distribution est interdite sans l'autorisation des auteurs.
+The system provides insights into:
+- Views prediction
+- Revenue estimation
+- Audience engagement
+- Watch time analytics
 
 ---
 
-##  Lien du dépôt
+## Features
 
-[👉 Accéder au dépôt GitHub](https://youtube-channel-analyzer-bhr42gwpkhetykahgxtqli.streamlit.app/)
+- Exploratory Data Analysis (EDA)
+- Revenue prediction
+- Engagement analytics
+- Interactive dashboards
+- ML model comparison
+
+---
+
+## Machine Learning Models
+
+- Linear Regression
+- Random Forest
+- XGBoost
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- Scikit-learn
+- XGBoost
+- Streamlit
+- Plotly
+
+---
+
+## Results
+
+- Improved prediction accuracy using XGBoost
+- Built interactive analytics dashboard
+- Generated business insights for content creators
+
+---
+
+## Dashboard Preview
+
+<img width="1907" height="1075" alt="Capture d&#39;écran 2025-05-18 135713" src="https://github.com/user-attachments/assets/f5040677-b68b-49d2-acf5-bb78aca33cf9" />
+
+---
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+
+
+## author
+```bash
+Oussama Harmal
+
